@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I’m Utsav!</h1>
-<h2 align="center"><b>I am the BEST debugger.</b></h2>
 <p align="center">
   Computer Science student @ <a href="https://www.sfu.ca/">Simon Fraser University</a><br>
   <img src="https://img.shields.io/badge/Python-%F0%9F%92%BB-3776AB?style=flat-square" />
@@ -43,7 +42,7 @@ End‑to‑end neural network using Python (likely NumPy/TensorFlow) for supervi
 ---
 
 ## 🚀 Why I Stand Out
-
+- Because I turn bugs into business value,I'm the best debugger you'll ever meet!
 - Balanced full‑stack and AI technical depth
 - Hands‑on experience with agile course‑based projects
 - Strong in algorithmic thinking, debugging, optimization
