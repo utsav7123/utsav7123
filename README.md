@@ -1,16 +1,67 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I’m Utsav!</h1>
+<h2 align="center"><b>I am the BEST debugger.</b></h2>
+<p align="center">
+  Computer Science student @ <a href="https://www.sfu.ca/">Simon Fraser University</a><br>
+  <img src="https://img.shields.io/badge/Python-%F0%9F%92%BB-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square" />
+  <img src="https://img.shields.io/badge/NoSQL-4EA94B?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%2FML-FireFlame-red?style=flat-square" />
+</p>
 
-<!--
-**utsav7123/utsav7123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧰 Projects That Define Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 cmpt276-group-project (Realtorest)  
+**Team-built** real estate web app using Java, Spring Boot & PostgreSQL, with full CRUD (listings, user accounts, favorites) and deployment on Render. Built to simulate agile workflows—requirements documentation, iterative design, CI/CD pipelines, and client-facing demos. :contentReference[oaicite:1]{index=1}
+
+### 💬 C-Word-Counter  
+Efficient textual analysis tool in C – reads large files, maps sentences/words, tracks frequencies. Great for performance-sensitive NLP or systems scripting.
+
+### 🤖 Vaccum-Cleaner-Agent  
+AI agent using Python to navigate, clean, and optimize coverage in grid environments. Showcases search strategies like BFS/DFS and potential reinforcement learning integration.
+
+### 🧠 Tic-Tac-Toe–Adversarial-Search-AI  
+GUI Tic‑Tac‑Toe with unbeatable AI using Minimax, Alpha‑Beta pruning, and cutoff heuristics/interactive menu. Highlights algorithmic design and strategic depth.
+
+### 🎯 MDPs–Reinforcement‑Learning  
+Implementation of Markov Decision Processes and classic RL algorithms (Value Iteration, Policy Iteration) with convergence demos and derived optimal policies.
+
+### 🕸️ ML–Neural‑Networks‑Project  
+End‑to‑end neural network using Python (likely NumPy/TensorFlow) for supervised learning. Includes training loops, dynamic architecture, evaluation metrics, and data visualization.
+
+---
+
+## 🎯 Core Skills & Tools
+
+- **Languages:** Python, C++, Java  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Machine Learning & AI:** Minimax, Alpha-Beta, MDPs, Neural Networks  
+- **Frameworks & Tools:** Spring Boot, Docker, Git, Jupyter
+
+---
+
+## 🚀 Why I Stand Out
+
+- Balanced full‑stack and AI technical depth
+- Hands‑on experience with agile course‑based projects
+- Strong in algorithmic thinking, debugging, optimization
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utsav7123&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utsav7123&layout=compact&theme=radical)
+
+---
+
+## 📬 Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/utsav7123/)  
+- Open to coding challenges, AI/ML collaborations, and game dev projects
+
+---
+
+<p align="center"><i>“I just code—and I’m the best problem solver.”</i></p>
