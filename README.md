@@ -42,7 +42,7 @@ End‑to‑end neural network using Python (likely NumPy/TensorFlow) for supervi
 ---
 
 ## 🚀 Why I Stand Out
-- Because I turn bugs into business value,I'm the best debugger you'll ever meet!
+- Because I turn bugs into business value; a good debugger!
 - Balanced full‑stack and AI technical depth
 - Hands‑on experience with agile course‑based projects
 - Strong in algorithmic thinking, debugging, optimization
