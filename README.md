@@ -15,6 +15,11 @@
 ### 🔍 cmpt276-group-project (Realtorest)  
 **Team-built** real estate web app using Java, Spring Boot & PostgreSQL, with full CRUD (listings, user accounts, favorites) and deployment on Render. Built to simulate agile workflows—requirements documentation, iterative design, CI/CD pipelines, and client-facing demos.
 
+### 🗃️ PITS-Trading-Platform (SQL & Flask)
+Full-stack mini trading system for “Pie-in-the-Sky Security Corp.”  
+Designed a secure Postgres schema with complex triggers/views (trade sequencing, oversell protection), plus a Flask REST API for live queries and trades. Mixes real-world DB constraints, error handling, and Python web programming in a single project.
+
+
 ### 🏗️ Indexed-Priority-Queue (IPQ)
 C++ template-based indexed priority queue. Supports fast insertion, removal, and direct priority updates using unique string IDs. Great for task schedulers, simulation engines, or anywhere you need min-heap performance plus O(1) item lookup. Implements custom heap logic and hash mapping from scratch for full control and efficiency.
 
