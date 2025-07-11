@@ -70,7 +70,7 @@ End‑to‑end neural network using Python (likely NumPy/TensorFlow) for supervi
 
 ## 📬 Let’s Connect
 
-- [LinkedIn]([https://www.linkedin.com/in/utsav7123/](https://www.linkedin.com/in/utsav-sachinkumar-patel-572b30244/))  
+- [LinkedIn](https://www.linkedin.com/in/utsav-sachinkumar-patel-572b30244/)  
 - Open to coding challenges, AI/ML collaborations, and game dev projects
 
 ---
