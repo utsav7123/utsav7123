@@ -13,7 +13,7 @@
 ## 🧰 Projects That Define Me
 
 ### 🔍 cmpt276-group-project (Realtorest)  
-**Team-built** real estate web app using Java, Spring Boot & PostgreSQL, with full CRUD (listings, user accounts, favorites) and deployment on Render. Built to simulate agile workflows—requirements documentation, iterative design, CI/CD pipelines, and client-facing demos. :contentReference[oaicite:1]{index=1}
+**Team-built** real estate web app using Java, Spring Boot & PostgreSQL, with full CRUD (listings, user accounts, favorites) and deployment on Render. Built to simulate agile workflows—requirements documentation, iterative design, CI/CD pipelines, and client-facing demos.
 
 ### 🏗️ Indexed-Priority-Queue (IPQ)
 C++ template-based indexed priority queue. Supports fast insertion, removal, and direct priority updates using unique string IDs. Great for task schedulers, simulation engines, or anywhere you need min-heap performance plus O(1) item lookup. Implements custom heap logic and hash mapping from scratch for full control and efficiency.
