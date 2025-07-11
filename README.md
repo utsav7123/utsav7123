@@ -15,6 +15,9 @@
 ### 🔍 cmpt276-group-project (Realtorest)  
 **Team-built** real estate web app using Java, Spring Boot & PostgreSQL, with full CRUD (listings, user accounts, favorites) and deployment on Render. Built to simulate agile workflows—requirements documentation, iterative design, CI/CD pipelines, and client-facing demos. :contentReference[oaicite:1]{index=1}
 
+### 🖼️ BMP-File-Viewer  
+Python/Tkinter GUI app to open, display, and analyze BMP images. Handles 1/4/8/24‑bit BMPs, parses headers, shows file metadata, interactive scale/brightness, and lets you toggle RGB channels for visual exploration. Uses custom pixel parsing logic (NumPy) and real-time canvas rendering.
+
 ### 💬 C-Word-Counter  
 Efficient textual analysis tool in C – reads large files, maps sentences/words, tracks frequencies. Great for performance-sensitive NLP or systems scripting.
 
